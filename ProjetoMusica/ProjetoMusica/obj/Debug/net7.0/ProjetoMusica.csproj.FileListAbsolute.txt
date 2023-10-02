@@ -1,0 +1,14 @@
+C:\Users\PIREZ\Desktop\ProjetoC#\ProjetoMusica\ProjetoMusica\bin\Debug\net7.0\ProjetoMusica.exe
+C:\Users\PIREZ\Desktop\ProjetoC#\ProjetoMusica\ProjetoMusica\bin\Debug\net7.0\ProjetoMusica.deps.json
+C:\Users\PIREZ\Desktop\ProjetoC#\ProjetoMusica\ProjetoMusica\bin\Debug\net7.0\ProjetoMusica.runtimeconfig.json
+C:\Users\PIREZ\Desktop\ProjetoC#\ProjetoMusica\ProjetoMusica\bin\Debug\net7.0\ProjetoMusica.dll
+C:\Users\PIREZ\Desktop\ProjetoC#\ProjetoMusica\ProjetoMusica\bin\Debug\net7.0\ProjetoMusica.pdb
+C:\Users\PIREZ\Desktop\ProjetoC#\ProjetoMusica\ProjetoMusica\obj\Debug\net7.0\ProjetoMusica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PIREZ\Desktop\ProjetoC#\ProjetoMusica\ProjetoMusica\obj\Debug\net7.0\ProjetoMusica.AssemblyInfoInputs.cache
+C:\Users\PIREZ\Desktop\ProjetoC#\ProjetoMusica\ProjetoMusica\obj\Debug\net7.0\ProjetoMusica.AssemblyInfo.cs
+C:\Users\PIREZ\Desktop\ProjetoC#\ProjetoMusica\ProjetoMusica\obj\Debug\net7.0\ProjetoMusica.csproj.CoreCompileInputs.cache
+C:\Users\PIREZ\Desktop\ProjetoC#\ProjetoMusica\ProjetoMusica\obj\Debug\net7.0\ProjetoMusica.dll
+C:\Users\PIREZ\Desktop\ProjetoC#\ProjetoMusica\ProjetoMusica\obj\Debug\net7.0\refint\ProjetoMusica.dll
+C:\Users\PIREZ\Desktop\ProjetoC#\ProjetoMusica\ProjetoMusica\obj\Debug\net7.0\ProjetoMusica.pdb
+C:\Users\PIREZ\Desktop\ProjetoC#\ProjetoMusica\ProjetoMusica\obj\Debug\net7.0\ProjetoMusica.genruntimeconfig.cache
+C:\Users\PIREZ\Desktop\ProjetoC#\ProjetoMusica\ProjetoMusica\obj\Debug\net7.0\ref\ProjetoMusica.dll
