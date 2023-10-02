@@ -1,24 +1,28 @@
 ﻿class Episodio
 {
-    public Episodio(Podcast host, Podcast nome)
+    private List<string> convidados = new List<string>();
+ 
+
+    public Episodio(int ordem, int duracao, string titulo)
     {
-        Host = host;
-        Nome = nome;
+        Ordem = ordem;
+        Duracao = duracao;
+        Titulo = titulo;
     }
 
     public Podcast Host { get; }
     public Podcast Nome { get; }
-    public int Ordem { get; set; }
-    public int Duracao { get; set; }
-    public string Titulo { get; set; }
-    public string Resumo => 
-        $"O episódio de número {Ordem} - {Titulo} com duração de {Duracao}";
+    public int Ordem { get; }
+    public int Duracao { get; }
+    public string Titulo { get; }
+    public string Resumo =>
+        $"{Ordem} - {Titulo} com duração de {Duracao} - " +
+        $"Convidados: {string.Join(", ", convidados)}";
     
     
-    public void AdicionarConvidados()
+    public void AdicionarConvidados(string convidado)
     {
-
-
+        convidados.Add(convidado);
 
     }
 
